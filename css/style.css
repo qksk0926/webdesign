@@ -1,0 +1,83 @@
+*{margin: 0 padding:0;}
+body {margin: 0px;margin:0; padding:0;height:100%;}
+
+.header{background-color: #c7a9a0; height: 70px; width:100%}
+span {display: flex; float: right; font-size: 16px; margin-right: 200px;padding-top: 6px; }
+.header .image img{height: 50px; padding-top: 8px;}
+.menu p  a {margin-left: 120px;color: #ffff; text-decoration-line : none;}
+.menu p a:hover {color: #707070;}
+.image{float: left; margin-left: 200px; padding-top: 2px;}
+
+/*visal*/
+.visual  {padding-left: 200px; padding-top:  200px; padding-bottom: 200px; background-color: }
+
+/*gallery card*/
+.gallery .card1 {background: #F2EBE9; height: 500px; width: 100%;display:flex;}
+.gallery .card1 img {margin-left: 200px; height: 582px;}
+.gallery .card1 .text{font-size: 18px; float: right; margin-top: 200px; margin-left: 200px; color: #707070;}
+
+.gallery .card2 {background: #E1E2E7; height: 550px; width: 100%;}
+.gallery .card2 img {float: right; margin-right: 200px; }
+.gallery .card2 .text{font-size: 18px; float: left; margin-top: 220px; margin-left: 350px;color: #707070;}
+
+.gallery .card3 {background: #Ffff; height: 500px; width: 100%; display: flex;}
+.gallery .card3 img {padding-left: 200px; height: 582px}
+.gallery .card3 .text{font-size: 18px; float: right; text-align: center; margin-left: 250px; margin-top: 200px; color: #707070;}
+
+.gallery .card4 {background: #F2EBE9; height: 500px; width: 100%; margin-bottom: 80px; }
+.gallery .card4 img {margin-top: 0px; float: right; margin-right:200px;  }
+.gallery .card4 .text{font-size: 18px; float: left; margin-top: 220px; margin-left: 350px; color: #707070; }
+
+
+/*footer*/
+.footer{ background-color: #c7a9a0;  width:100%; height: 70px;}
+
+.logo {padding-left: 200px;display: flex ;float: left;}
+.logo img{height: 50px;  padding-top: 9px;}
+.copy p{color: #ffff; display: flex ;float: right ; padding-top: 10px; padding-right: 100px; font-size: 13px; }
+
+
+/*sub01*/
+.sub01_visual {text-align: center;} 
+.sub01_visual img {height: 300px; width:550px;  }
+.sub01_visual_text img {height: 600px; padding-top: 30px;}
+.sub01_visual_text {text-align: center; height: 750px; width: 100%;}
+
+/*sub02*/
+.sub02_visual{text-align: center; height: 5763px; width: 100%;}
+.sub02_visual01 img{height: 300px; padding-top: 100px;}
+.sub02_visual02 img{height: 463px;padding-top: 100px;}
+.sub02_visual03 img{height: 488px;padding-top: 100px;}
+.sub02_visual04 img{height: 307px;padding-top: 100px;}
+.sub02_visual05 img{height: 300px;padding-top: 100px;}
+.sub02_visual06 img{height: 315px;padding-top: 100px;}
+.sub02_visual07 img{height: 300px;margin-left: 190px;padding-top: 100px;}
+.sub02_visual08 img{height: 360px;padding-top: 100px;}
+.sub02_visual09 img{height: 300px;padding-top: 100px;}
+.sub02_visual10 img{height: 630px;padding-top: 100px;}
+
+/*sub02_visual_box*/
+.sub02_visual01{height: 500px; width: 100%; background-color: #ffff;}
+.sub02_visual02{height: 663px; width: 100%; background-color: #F5F5F5;}
+.sub02_visual03{height: 688px; width: 100%; background-color: #ffff;}
+.sub02_visual04{height: 507px; width: 100%; background-color: #F5F5F5;}
+.sub02_visual05{height: 500px; width: 100%; background-color: #ffff;}
+.sub02_visual06{height: 515px; width: 100%; background-color: #F5F5F5;}
+.sub02_visual07{height: 500px; width: 100%; background-color: #ffff;}
+.sub02_visual08{height: 560px; width: 100%; background-color: #EBEBEB;}
+.sub02_visual09{height: 500px; width: 100%; background-color: #ffff;}
+.sub02_visual10{height: 830px; width: 100%; background-color: #F5F5F5;}
+
+/*sub03*/
+.sub03_visual {text-align: center;}
+.sub03_visual img{ height: 500px;}
+.sub03_visual_text { text-align: center;height: 1200px; width: 100%;}
+.sub03_visual_text img{height: 1000px; padding-top: 60px; }
+
+/*sub04*/
+.sub04_visual {text-align: center; height: 500px; padding-top: 100px;}
+.sub04_visual img {height: 400px;}
+.sub04_visual_text {text-align: center; height: 500px; padding-bottom: 100px;}
+.sub04_visual_text img {height: 500px;}
+.sub04_visual_footer {text-align: center; height: 230px;}
+.sub04_visual_footer img {height: 86px;}
